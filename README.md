@@ -1,2 +1,1 @@
-# Pac-Game
-Python
+# PAC-GAME
